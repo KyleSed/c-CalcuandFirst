@@ -1,0 +1,14 @@
+C:\Users\PUP-CITE-L1PC16\Desktop\Villamor_Calcu\bin\Debug\net10.0\Villamor_Calcu.exe
+C:\Users\PUP-CITE-L1PC16\Desktop\Villamor_Calcu\bin\Debug\net10.0\Villamor_Calcu.deps.json
+C:\Users\PUP-CITE-L1PC16\Desktop\Villamor_Calcu\bin\Debug\net10.0\Villamor_Calcu.runtimeconfig.json
+C:\Users\PUP-CITE-L1PC16\Desktop\Villamor_Calcu\bin\Debug\net10.0\Villamor_Calcu.dll
+C:\Users\PUP-CITE-L1PC16\Desktop\Villamor_Calcu\bin\Debug\net10.0\Villamor_Calcu.pdb
+C:\Users\PUP-CITE-L1PC16\Desktop\Villamor_Calcu\obj\Debug\net10.0\Villamor_Calcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUP-CITE-L1PC16\Desktop\Villamor_Calcu\obj\Debug\net10.0\Villamor_Calcu.AssemblyInfoInputs.cache
+C:\Users\PUP-CITE-L1PC16\Desktop\Villamor_Calcu\obj\Debug\net10.0\Villamor_Calcu.AssemblyInfo.cs
+C:\Users\PUP-CITE-L1PC16\Desktop\Villamor_Calcu\obj\Debug\net10.0\Villamor_Calcu.csproj.CoreCompileInputs.cache
+C:\Users\PUP-CITE-L1PC16\Desktop\Villamor_Calcu\obj\Debug\net10.0\Villamor_Calcu.dll
+C:\Users\PUP-CITE-L1PC16\Desktop\Villamor_Calcu\obj\Debug\net10.0\refint\Villamor_Calcu.dll
+C:\Users\PUP-CITE-L1PC16\Desktop\Villamor_Calcu\obj\Debug\net10.0\Villamor_Calcu.pdb
+C:\Users\PUP-CITE-L1PC16\Desktop\Villamor_Calcu\obj\Debug\net10.0\Villamor_Calcu.genruntimeconfig.cache
+C:\Users\PUP-CITE-L1PC16\Desktop\Villamor_Calcu\obj\Debug\net10.0\ref\Villamor_Calcu.dll
