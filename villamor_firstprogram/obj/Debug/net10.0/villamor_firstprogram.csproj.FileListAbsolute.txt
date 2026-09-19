@@ -1,0 +1,14 @@
+C:\Users\PUP-CITE-L1PC16\Desktop\villamor_firstprogram\bin\Debug\net10.0\villamor_firstprogram.exe
+C:\Users\PUP-CITE-L1PC16\Desktop\villamor_firstprogram\bin\Debug\net10.0\villamor_firstprogram.deps.json
+C:\Users\PUP-CITE-L1PC16\Desktop\villamor_firstprogram\bin\Debug\net10.0\villamor_firstprogram.runtimeconfig.json
+C:\Users\PUP-CITE-L1PC16\Desktop\villamor_firstprogram\bin\Debug\net10.0\villamor_firstprogram.dll
+C:\Users\PUP-CITE-L1PC16\Desktop\villamor_firstprogram\bin\Debug\net10.0\villamor_firstprogram.pdb
+C:\Users\PUP-CITE-L1PC16\Desktop\villamor_firstprogram\obj\Debug\net10.0\villamor_firstprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUP-CITE-L1PC16\Desktop\villamor_firstprogram\obj\Debug\net10.0\villamor_firstprogram.AssemblyInfoInputs.cache
+C:\Users\PUP-CITE-L1PC16\Desktop\villamor_firstprogram\obj\Debug\net10.0\villamor_firstprogram.AssemblyInfo.cs
+C:\Users\PUP-CITE-L1PC16\Desktop\villamor_firstprogram\obj\Debug\net10.0\villamor_firstprogram.csproj.CoreCompileInputs.cache
+C:\Users\PUP-CITE-L1PC16\Desktop\villamor_firstprogram\obj\Debug\net10.0\villamor_firstprogram.dll
+C:\Users\PUP-CITE-L1PC16\Desktop\villamor_firstprogram\obj\Debug\net10.0\refint\villamor_firstprogram.dll
+C:\Users\PUP-CITE-L1PC16\Desktop\villamor_firstprogram\obj\Debug\net10.0\villamor_firstprogram.pdb
+C:\Users\PUP-CITE-L1PC16\Desktop\villamor_firstprogram\obj\Debug\net10.0\villamor_firstprogram.genruntimeconfig.cache
+C:\Users\PUP-CITE-L1PC16\Desktop\villamor_firstprogram\obj\Debug\net10.0\ref\villamor_firstprogram.dll
